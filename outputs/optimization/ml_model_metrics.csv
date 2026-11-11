@@ -1,0 +1,7 @@
+Task,Model,Primary_Metric_Name,Primary_Metric_Value,MAE_Days,R2,F1_Score,Accuracy
+Lead Time Regression,Random Forest Regressor,RMSE (Days),0.9596796968386871,0.7748199136050089,0.6954674068472959,,
+Lead Time Regression,HistGradientBoosting Regressor,RMSE (Days),0.9714670219707994,0.7918135008623536,0.6879405838996918,,
+Lead Time Regression,Ridge Regression,RMSE (Days),1.0004350075057191,0.810496016990565,0.669052635145896,,
+Freight Erosion Risk (>=20% Profit),HistGradientBoosting Classifier,ROC-AUC,0.9999169971410127,,,0.9959100204498977,0.998038254046101
+Freight Erosion Risk (>=20% Profit),Random Forest Classifier,ROC-AUC,0.9996587660241631,,,0.9760166840458812,0.988719960765081
+Freight Erosion Risk (>=20% Profit),Logistic Regression,ROC-AUC,0.9530651770068904,,,0.8118393234672304,0.9127023050514959

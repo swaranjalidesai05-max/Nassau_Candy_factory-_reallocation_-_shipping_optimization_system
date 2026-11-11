@@ -1,0 +1,7 @@
+Metric,Before_Stage2_Misparse,After_Stage4_Validation
+Total Rows,10194.0,10194.0
+Invalid / Missing Order Dates,6064.0,0.0
+Invalid / Missing Ship Dates,0.0,0.0
+Median Lead Time (Days),1274.0,4.0
+Min Lead Time (Days),904.0,0.0
+Max Lead Time (Days),1642.0,11.0

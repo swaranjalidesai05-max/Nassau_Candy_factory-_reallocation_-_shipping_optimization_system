@@ -1,0 +1,8 @@
+Metric,Value
+Min Order Date,2024-01-02 00:00:00
+Max Order Date,2025-12-12 00:00:00
+Min Ship Date,2026-06-30 00:00:00
+Max Ship Date,2030-06-28 00:00:00
+Min Lead Time,613.0
+Max Lead Time,1965.0
+Mean Lead Time,1366.0096852300242

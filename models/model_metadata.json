@@ -1,0 +1,8 @@
+{
+  "best_lead_time_model": "Random Forest Regressor",
+  "lead_time_rmse": 0.9596796968386871,
+  "lead_time_r2": 0.6954674068472959,
+  "best_risk_model": "HistGradientBoosting Classifier",
+  "risk_roc_auc": 0.9999169971410127,
+  "risk_f1": 0.9959100204498977
+}

@@ -1,0 +1,14 @@
+Metric,Value
+minimum,613.0
+maximum,1965.0
+mean,1366.0096852300242
+median,1361.0
+std,302.8299723543115
+Q1,1155.0
+Q3,1598.0
+IQR,443.0
+negative_values,0.0
+zero_values,0.0
+> 30 days,4130.0
+> 90 days,4130.0
+> 365 days,4130.0
